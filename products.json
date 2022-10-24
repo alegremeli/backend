@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Manga Berserk 27",
+    "price": 1500,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_763085-MLA49432333436_032022-O.webp",
+    "id": 1
+  },
+  {
+    "title": "Manga Shingeki No Kyojin 20",
+    "price": 1100,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_965964-MLA41663623351_052020-O.webp",
+    "id": 2
+  },
+  {
+    "title": "Manga Dorohedoro 1",
+    "price": 2000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_691062-MLA51760448918_092022-O.webp",
+    "id": 3
+  }
+]
